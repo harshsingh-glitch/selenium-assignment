@@ -1,0 +1,4 @@
+com/amazon/selenium/tests/HomePageTest.class
+com/amazon/selenium/tests/LoginTest.class
+com/amazon/selenium/tests/BaseTest.class
+com/amazon/selenium/tests/ProductTest.class
